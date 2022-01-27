@@ -5,3 +5,5 @@
 - 🎓 𝕀 𝕨𝕒𝕟𝕥 𝕥𝕠 𝕓𝕖𝕔𝕠𝕞𝕖 𝕒 𝕤𝕠𝕗𝕥𝕨𝕒𝕣𝕖 𝕖𝕟𝕘𝕚𝕟𝕖𝕖𝕣 𝕠𝕣 𝕘𝕒𝕞𝕖 𝕕𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣
 
 𝕀 𝕡𝕠𝕤𝕥 𝕘𝕒𝕞𝕚𝕟𝕘 𝕔𝕠𝕟𝕥𝕖𝕟𝕥 𝕙𝕖𝕣𝕖: https://www.tiktok.com/@dolsity?lang=en
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=yourGithubUsername)
