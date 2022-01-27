@@ -6,4 +6,4 @@
 
 𝕀 𝕡𝕠𝕤𝕥 𝕘𝕒𝕞𝕚𝕟𝕘 𝕔𝕠𝕟𝕥𝕖𝕟𝕥 𝕙𝕖𝕣𝕖: https://www.tiktok.com/@dolsity?lang=en
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=yourGithubUsername)
+![Github stats](https://github-readme-stats.vercel.app/api?username=Dolsity)
