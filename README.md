@@ -57,6 +57,4 @@
       <img alt="Dolsity's streak" src="https://streak-stats.demolab.com/?user=Dolsity&theme=monokai-metallian&hide_border=true"/>
     </a>
   </p>
-  <br/>
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Dolsity's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=Dolsity&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 </details>
